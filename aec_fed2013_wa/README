@@ -1,0 +1,22 @@
+The data in count1/ is the result of the first count of the West
+Australian Senate Election, 2013.
+
+The data in count2/ is the result of the second count of the West
+Australian Senate Election, 2013.  1370 ballots were lost in this
+count. This is the result which was declared by the AEC.
+
+The data in count2_plus_1370/ is the result of the second count of
+the West Australian Senate Election, 2013, plus the AEC estimate 
+of what the missing ballots were, assuming that they were counted 
+correctly in the first count, and that none of the informal votes 
+from the first count would have become formal on re-examination.
+
+Data is © Commonwealth of Australia. The data in count2_plus_1370 
+is derived from the AEC data, but the changes made are not official.
+
+As authorised at http://aec.gov.au/footer/Copyright.htm this material
+is used under the Creative Commons Attribution 3.0 Australia Licence
+(CC BY 3.0), http://creativecommons.org/licenses/by/3.0/au/
+
+
+
