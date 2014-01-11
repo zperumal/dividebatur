@@ -19,5 +19,7 @@
             "automation" : [1, 1]
         }
     ],
-    "vacancies" : 6
+    "vacancies" : 6,
+    "house" : "Australian Senate",
+    "state" : "WA"
 }
