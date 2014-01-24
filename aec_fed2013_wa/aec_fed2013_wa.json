@@ -2,23 +2,10 @@
     "count" : [
         {
             "path" : "count1/data",
+            "verified" : "count1/verified",
             "name" : "Initial Count",
             "shortname" : "wa_count1",
             "description" : "First count of the votes, replaced by later recount.",
-            "automation" : [1, 1]
-        },
-        {
-            "path" : "count2/data",
-            "name" : "Recount",
-            "shortname" : "wa_count2",
-            "description" : "Second count of the votes. This was the result declared by the AEC.",
-            "automation" : [1, 1]
-        },
-        {
-            "path" : "count2_plus_1370/data",
-            "name" : "Recount + Missing votes",
-            "shortname" : "wa_count2_plus_missing",
-            "description" : "Second count of the votes, plus the AEC's estimate of the 1370 votes lost during the recount. These votes were not recounted, and lost informal ballots were not re-examined, so this is very much an approximation and not conclusive as to what would have happened if the ballots had not been lost.",
             "automation" : [1, 1]
         }
     ],
