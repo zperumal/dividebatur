@@ -21,6 +21,13 @@
             "shortname" : "wa_count2_plus_missing",
             "description" : "Second count of the votes, plus the AEC's estimate of the 1370 votes lost during the recount. These votes were not recounted, and lost informal ballots were not re-examined, so this is very much an approximation and not conclusive as to what would have happened if the ballots had not been lost.",
             "automation" : [1, 1]
+        },
+        {
+            "path" : "rerun_count1/data",
+            "name" : "2014 Re-run",
+            "shortname" : "wa_2014_count1",
+            "description" : "First count of the 2014 re-run of the senate election.",
+            "automation" : [2, 1, 1]
         }
     ],
     "vacancies" : 6,
