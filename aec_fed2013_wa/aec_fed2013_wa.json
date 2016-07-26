@@ -32,5 +32,6 @@
     ],
     "vacancies" : 6,
     "house" : "Australian Senate",
-    "state" : "WA"
+    "state" : "WA",
+    "method" : "AusSenatePre2015"
 }
