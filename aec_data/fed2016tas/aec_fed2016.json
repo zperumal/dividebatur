@@ -1,0 +1,15 @@
+{
+    "count" : [
+        {
+            "path" : "nt/data",
+            "name" : "Tas",
+            "shortname" : "tas",
+            "description" : "Tasmania",
+            "automation" : []
+        }
+    ],
+    "vacancies" : 12,
+    "house" : "Australian Senate",
+    "state" : "TAS",
+    "method" : "AusSenatePost2015"
+}
