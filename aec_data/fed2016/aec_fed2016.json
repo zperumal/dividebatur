@@ -9,7 +9,8 @@
             "vacancies" : 12,
             "house" : "Australian Senate",
             "state" : "TAS",
-            "automation" : [2]
+            "automation" : [2],
+	    "s282_recount": true
         },
         {
             "path" : "nt/data",
