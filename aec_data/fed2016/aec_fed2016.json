@@ -2,6 +2,7 @@
     "count" : [
         {
             "path" : "tas/data",
+	    "verified" : "tas/verified",
             "name" : "TAS",
             "shortname" : "tas",
             "description" : "Tasmania",
@@ -12,6 +13,7 @@
         },
         {
             "path" : "nt/data",
+	    "verified" : "nt/verified",
             "name" : "NT",
             "shortname" : "nt",
             "description" : "Northern Territory",
