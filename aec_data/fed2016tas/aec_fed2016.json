@@ -1,11 +1,11 @@
 {
     "count" : [
         {
-            "path" : "nt/data",
+            "path" : "tas/data",
             "name" : "Tas",
             "shortname" : "tas",
             "description" : "Tasmania",
-            "automation" : []
+            "automation" : [2]
         }
     ],
     "vacancies" : 12,
