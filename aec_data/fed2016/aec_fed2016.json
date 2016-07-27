@@ -1,0 +1,26 @@
+{
+    "count" : [
+        {
+            "path" : "tas/data",
+            "name" : "TAS",
+            "shortname" : "tas",
+            "description" : "Tasmania",
+            "vacancies" : 12,
+            "house" : "Australian Senate",
+            "state" : "TAS",
+            "automation" : [2]
+        },
+        {
+            "path" : "nt/data",
+            "name" : "NT",
+            "shortname" : "nt",
+            "description" : "Northern Territory",
+            "automation" : [],
+            "vacancies" : 2,
+            "house" : "Australian Senate",
+            "state" : "NT"
+        }
+    ],
+    "method" : "AusSenatePost2015",
+    "title" : "Australian Senate 2016"
+}
