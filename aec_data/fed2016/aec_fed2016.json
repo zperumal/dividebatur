@@ -9,8 +9,18 @@
             "vacancies" : 12,
             "house" : "Australian Senate",
             "state" : "TAS",
-            "automation" : [2],
-	    "s282_recount": true
+            "automation" : [2]
+        },
+        {
+            "path" : "tas/data",
+            "name" : "TAS s282",
+            "shortname" : "tas_s282",
+            "description" : "Tasmania - s282 recount",
+            "vacancies" : 6,
+            "house" : "Australian Senate",
+            "state" : "TAS",
+            "automation" : [],
+	    "s282_recount": "tas"
         },
         {
             "path" : "nt/data",
