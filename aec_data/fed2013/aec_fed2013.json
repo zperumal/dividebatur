@@ -1,0 +1,26 @@
+{
+    "count" : [
+        {
+            "path" : "nt/data",
+            "name" : "NT",
+            "shortname" : "nt",
+            "description" : "Northern Territory",
+            "automation" : [],
+            "vacancies" : 2,
+            "house" : "Australian Senate",
+            "state" : "NT"
+        },
+        {
+            "path" : "wa/data",
+            "name" : "WA",
+            "shortname" : "wa",
+            "description" : "Western Australia",
+            "automation" : [1, 1],
+            "vacancies" : 6,
+            "house" : "Australian Senate",
+            "state" : "WA"
+        }
+    ],
+    "method" : "AusSenatePre2015",
+    "title" : "Australian Senate, WA, 2013/14"
+}
