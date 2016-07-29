@@ -296,6 +296,10 @@ def get_counting_method(method):
         return SenateCountPost2015
 
 
+def counting_method_valid(method_cls):
+    if method_cls is None:
+        raise Exception("unsupported counting method `%s' requested" % (config['method']))
+
 def s282_recount_get_candidates(out_dir, count, written):
     shortname = count.get('s282_recount')
     if not shortname:
@@ -317,8 +321,7 @@ def main(config_file, out_dir):
     cleanup_json(out_dir)
     write_angular_json(config, out_dir)
     method_cls = get_counting_method(config['method'])
-    if method_cls is None:
-        raise Exception("unsupported counting method `%s' requested" % (config['method']))
+    counting_method_valid(method_cls)
     written = set()
     for count in config['count']:
         s282_candidates = s282_recount_get_candidates(out_dir, count, written)
