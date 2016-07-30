@@ -131,6 +131,9 @@ class Candidates:
                 k = (candidate.Surname, candidate.GivenNm, candidate.PartyNm)
                 assert(k not in self.by_name_party)
                 self.by_name_party[k] = candidate
+                
+    def set_candidates(self, new_candidates):
+        self.candidates = new_candidates
 
     def lookup_id(self, candidate_id):
         return self.by_id[candidate_id]

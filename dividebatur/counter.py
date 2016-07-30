@@ -2,6 +2,7 @@ import itertools
 import json
 import fractions
 import os
+from random import randint
 from .output import JsonOutput, RoundLog, LogEntry
 
 
@@ -249,7 +250,7 @@ class CandidateAggregates:
 
 
 class SenateCounter:
-    def __init__(self, fname, vacancies, papers_for_count, parties, candidate_ids, candidate_order, candidate_title, candidate_party, test_log_dir, **kwargs):
+    def __init__(self, fname, vacancies, papers_for_count, parties, candidate_ids, candidate_order, candidate_title, candidate_party, test_log_dir,random_tie_break=False,  **kwargs):
         self.output = JsonOutput(fname)
         self.vacancies, self.papers_for_count, self.parties, self.candidate_ids, self.candidate_order, self.candidate_title, self.candidate_party = \
             vacancies, papers_for_count, parties, candidate_ids, candidate_order, candidate_title, candidate_party
@@ -267,6 +268,7 @@ class SenateCounter:
         self.election_distributions_pending = []
         self.has_run = False
         self.set_automation_callback(None)
+        self.random_tie_break = random_tie_break
 
     def set_automation_callback(self, cb):
         self.automation_callback = cb
@@ -297,8 +299,13 @@ class SenateCounter:
             'id': candidate_id
         }) for candidate_id in self.candidate_ids)
 
-    def input_or_automated(self, entry, qn):
+    def input_or_automated(self, entry, qn, upper_bound):
         resp = None
+        if upper_bound is not None and self.random_tie_break:
+            if upper_bound <= 1:
+                return 1
+            else:
+                return randint(1,upper_bound) 
         if self.automation_callback is not None:
             resp = self.automation_callback()
         if resp is not None:
@@ -353,8 +360,8 @@ class SenateCounter:
                         permutations = itertools.permutations(candidate_ids)
                         for idx, permutation in enumerate(permutations):
                             entry.log("%d) %s" % (idx + 1, ', '.join([self.candidate_title(t) for t in permutation])))
-                        choice = int(self.input_or_automated(entry, "choose election order: "))
-                        for candidate_id in permutations[choice - 1]:
+                        choice = int(self.input_or_automated(entry, "choose election order: ", len(list(permutations))))
+                        for candidate_id in nth(permutations,choice - 1):
                             elected.append(candidate_id)
         return elected
 
@@ -602,7 +609,7 @@ class SenateCounter:
         sorted_candidate_ids = list(sorted(candidate_ids, key=self.candidate_title))
         for idx, candidate_id in enumerate(sorted_candidate_ids):
             entry.log("[%3d] - %s" % (idx + 1, self.candidate_title(candidate_id)), echo=True)
-        return sorted_candidate_ids[int(self.input_or_automated(entry, question)) - 1]
+        return sorted_candidate_ids[int(self.input_or_automated(entry, question, len(sorted_candidate_ids))) - 1]
 
     def exclude_a_candidate(self, round_log, round_number, candidate_aggregates):
         def eligible(candidate_id):
@@ -766,3 +773,8 @@ class SenateCounter:
         for idx, candidate_id in in_order(self.candidates_excluded):
             r['excluded'].append(outcome(candidate_id, self.candidates_excluded))
         return r
+
+def nth(iterable, n, default=[]):
+        "Returns the nth item or a default value"
+        return next(itertools.islice(iterable, n, None), default)
+

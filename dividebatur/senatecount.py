@@ -255,7 +255,7 @@ def json_count_path(out_dir, shortname):
     return os.path.join(out_dir, shortname + '.json')
 
 
-def get_outcome(count, count_data, base_dir, out_dir):
+def get_outcome_with_output_config(count, count_data, base_dir, out_dir, random_tie_break=False):
     test_logs_okay = True
     test_log_dir = None
     if 'verified' in count:
@@ -273,6 +273,41 @@ def get_outcome(count, count_data, base_dir, out_dir):
         count_data.get_candidate_title,
         count_data.get_candidate_party,
         test_log_dir,
+        random_tie_break = random_tie_break,
+        name=count.get('name'),
+        description=count.get('description'),
+        house=count['house'],
+        state=count['state'])
+    counter.set_automation_callback(make_automation(count.get('automation', [])))
+    counter.run()
+    if test_log_dir is not None:
+        if not verify_test_logs(os.path.join(base_dir, count['verified']), test_log_dir):
+            test_logs_okay = False
+    if not test_logs_okay:
+        print("** TESTS FAILED **")
+        sys.exit(1)
+    return (outf , counter.output.summary)
+
+def get_outcome(count, count_data, base_dir, out_dir, random_tie_break=False):
+    test_logs_okay = True
+    test_log_dir = None
+    if 'verified' in count:
+        test_log_dir = tempfile.mkdtemp(prefix='dividebatur_tmp')
+        print("test logs are written to: %s" % (test_log_dir))
+    outf = json_count_path(out_dir, count['shortname'])
+    print(outf)
+    print("counting %s -> %s" % (count['name'], outf))
+    counter = SenateCounter(
+        outf,
+        count['vacancies'],
+        count_data.get_tickets_for_count(),
+        count_data.get_parties(),
+        count_data.get_candidate_ids(),
+        count_data.get_candidate_order,
+        count_data.get_candidate_title,
+        count_data.get_candidate_party,
+        test_log_dir,
+        random_tie_break = random_tie_break,
         name=count.get('name'),
         description=count.get('description'),
         house=count['house'],
