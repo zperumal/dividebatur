@@ -1,14 +1,20 @@
 {
     "count" : [
         {
-            "path" : "nt/data",
             "name" : "NT",
             "shortname" : "nt",
             "description" : "Northern Territory",
             "automation" : [],
             "vacancies" : 2,
             "house" : "Australian Senate",
-            "state" : "NT"
+            "state" : "NT",
+	    "aec-data" : {
+		"format": "AusSenatePre2015",
+		"senate-candidates": "common/SenateCandidatesDownload-17496.csv",
+		"group-voting-tickets": "common/SenateGroupVotingTicketsDownload-17496.csv",
+		"first-preferences": "common/SenateFirstPrefsByStateByVoteTypeDownload-17496.csv",
+		"btl-preferences": "nt/data/SenateStateBTLPreferences-17496-NT.csv"
+	    }
         },
         {
             "path" : "wa/data",
@@ -18,9 +24,15 @@
             "automation" : [1, 1],
             "vacancies" : 6,
             "house" : "Australian Senate",
-            "state" : "WA"
+            "state" : "WA",
+	    "aec-data" : {
+		"format": "AusSenatePre2015",
+		"senate-candidates": "common/SenateCandidatesDownload-17496.csv",
+		"group-voting-tickets": "common/SenateGroupVotingTicketsDownload-17496.csv",
+		"first-preferences": "common/SenateFirstPrefsByStateByVoteTypeDownload-17496.csv",
+		"btl-preferences": "wa/data/SenateStateBTLPreferences-17496-WA.csv"
+	    }
         }
     ],
-    "method" : "AusSenatePre2015",
     "title" : "Australian Senate, WA, 2013/14"
 }

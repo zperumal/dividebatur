@@ -1,0 +1,531 @@
+2013 Federal Election Senate Candidates [Please Note: These results are not final. Event:17496 Phase:PostElection Generated:2013-11-02T22:05:39 Cycle:816dca7f-34bf-45f4-85ea-182cb130a38c Created:2013-11-02T22:01:37 Environment:PROD Site:CDC Server:DB01 Version:8.4.2.12353]
+StateAb,PartyAb,PartyNm,CandidateID,Surname,GivenNm,Elected,HistoricElected
+VIC,AFLP,Australian Fishing and Lifestyle Party,23773,ABELA,Richard,N,N
+SA,BAP,Building Australia Party,24788,ADAMS,Bill,N,N
+SA,DRF,Drug Law Reform,25015,ADAMS,Damon,N,N
+NSW,PUP,Palmer United Party,24089,ADAMSON,Matthew,N,N
+WA,ALP,Australian Labor Party,24305,ALI,Suliman Mohamed,N,N
+TAS,ASP,Shooters and Fishers,23154,ALLEN,Matthew,N,N
+TAS,GRN,Australian Greens,23463,ANN,Penelope,N,N
+TAS,CYA,Country Alliance,23947,ARNOL,Cheryl,N,N
+ACT,KAP,Katter's Australian Party,24120,ARNOLD,Joe,N,N
+NSW,IND,Independent,24571,ASH,David,N,N
+SA,TCS,No Carbon Tax Climate Sceptics,24676,ASHBY,Leon,N,N
+VIC,WKP,The Wikileaks Party,24495,ASSANGE,Julian,N,N
+WA,SPA,Secular Party of Australia,23705,ATKINS,Edward,N,N
+ACT,ASXP,Sex Party,24113,AVERY,Deborah,N,N
+ACT,KAP,Katter's Australian Party,24114,BAILEY,Steven,N,N
+WA,HMP,Help End Marijuana Prohibition (HEMP) Party,25020,BALDERSTONE,Michael,N,N
+QLD,UNP,Uniting Australia Party,23824,BANHUK,Peter,N,N
+WA,SPP,Stable Population Party,23435,BANKS,John,N,N
+VIC,SEP,Socialist Equality Party,23510,BAPTIST,Tania,N,N
+NSW,SOL,Senator Online (Internet Voting Bills/Issues),24652,BARRY,Tony,N,N
+VIC,CEC,Citizens Electoral Council,23235,BARWICK,Robert,N,N
+QLD,GRN,The Greens,23925,BAYLEY,Sandra,N,N
+NSW,SEP,Socialist Equality Party,23403,BEAMS,Nick,N,N
+NSW,SMK,Smokers Rights,24798,BEIGER,Nicole,N,N
+NT,UNP,Uniting Australia Party,23793,BELL,Gary,N,N
+SA,ODR,Stop The Greens,24926,BENNETT,Gordon,N,N
+WA,RUA,Rise Up Australia Party,23970,BENNETT,Joanne,N,N
+VIC,SMK,Smokers Rights,24714,BEREGSZASZI,Janos,N,N
+SA,LP,Liberal,23611,BERNARDI,Cory,Y,Y
+TAS,ODR,Stop The Greens,24811,BEST,Ian Frederick,N,N
+TAS,ALP,Australian Labor Party,23491,BILYK,Catryna,Y,Y
+SA,LP,Liberal,23612,BIRMINGHAM,Simon,Y,Y
+NSW,RUA,Rise Up Australia Party,24100,BISHOP,Norm,N,N
+NSW,VCE,Australian Voice,24563,BLACK,Richard,N,N
+NSW,RPA,The Australian Republicans,24820,BLAKE,Jason,N,N
+NSW,GRN,The Greens,24472,BLATCHFORD,Penny,N,N
+QLD,KAP,Katter's Australian Party,24326,BLUNDELL,James,N,N
+QLD,APP,Australian Protectionist Party,23795,BOAG,Doug,N,N
+SA,VEP,Voluntary Euthanasia Party,24826,BOEREMA,Michael D D,N,N
+NSW,BTA,Bullet Train For Australia,24453,BOHM,Tim,N,N
+NSW,SPP,Stable Population Party,23163,BOURKE,William,N,N
+WA,ASP,Shooters and Fishers,23229,BOW,Murray,N,N
+QLD,ALP,Australian Labor Party,23553,BOYD,Nikki Anne,N,N
+NT,GRN,Australian Greens,24892,BRAND,Michael,N,N
+QLD,AUC,Australian Christians,23803,BRICE,Malcolm,N,N
+TAS,ASP,Shooters and Fishers,23155,BROADBY,Shane,N,N
+WA,LP,Liberal,23909,BROCKMAN,Slade,N,N
+NSW,WKP,The Wikileaks Party,24459,BROINOWSKI,Alison,N,N
+SA,VEP,Voluntary Euthanasia Party,24824,BROMSON,Maxwell Wayne,N,N
+TAS,ALP,Australian Labor Party,23484,BROWN,Carol,Y,Y
+NSW,BAP,Building Australia Party,24409,BROWN,Ray,N,N
+NSW,SPA,Secular Party of Australia,24449,BRYCE,Ian,N,N
+QLD,LDP,Liberal Democrats,24620,BUCKLEY,Gabriel,N,N
+ACT,BTA,Bullet Train For Australia,23693,BUCKNELL,Chris,N,N
+NSW,CA,Carers Alliance,24398,BUCKWALTER,Maree,N,N
+TAS,SOL,Senator Online (Internet Voting Bills/Issues),24516,BULLARD,David,N,N
+WA,ALP,Australian Labor Party,24284,BULLOCK,Joe,N,N
+SA,LP,Liberal,23615,BURGESS,Gary,N,N
+SA,ODR,Stop The Greens,24924,BURGESS,Steven David,N,N
+TAS,GRN,Australian Greens,23450,BURNET,Helen,N,N
+TAS,LP,Liberal,23290,BUSHBY,David,Y,Y
+WA,VCE,Australian Voice Party,24732,BUTLER,Sean,N,N
+WA,TCS,No Carbon Tax Climate Sceptics,24487,BYASS,Adrian,N,N
+SA,SEP,Socialist Equality Party,23844,BYRNE,Peter,N,N
+SA,HMP,Help End Marijuana Prohibition (HEMP) Party,25035,CALVERT,Chris,N,N
+NSW,LP,Liberal,23519,CAMERON,Angus,N,N
+NSW,LP,Liberal,23518,CAMERON,Carolyn,N,N
+NSW,ALP,Labor,24053,CAMERON,Doug,Y,Y
+NSW,PIR,Pirate Party,24074,CAMPBELL,David,N,N
+QLD,LNP,Liberal National Party of Queensland,23889,CANAVAN,Matthew,Y,N
+VIC,WKP,The Wikileaks Party,24496,CANNOLD,Leslie,N,N
+QLD,TCS,No Carbon Tax Climate Sceptics,24481,CARDWELL,Terence Leonard,N,N
+SA,GRN,Australian Greens,24841,CAREY,Matthew,N,N
+NSW,ALP,Labor,24052,CARR,Bob,Y,Y
+NSW,CA,Carers Alliance,24394,CARTER,MaryLou,N,N
+SA,FFP,Family First,24910,CASEY,Dan,N,N
+WA,LP,Liberal,23893,CASH,Michaelia,N,Y
+SA,DEM,Australian Democrats,23897,CASTRIQUE,Andrew,N,N
+TAS,LP,Liberal,23292,CHANDLER,Sally,N,N
+NSW,ALP,Labor,24064,CHHIBBER,Bhupinder Kumar,N,N
+VIC,DRF,Drug Law Reform,24661,CHIPP,Greg,N,N
+VIC,ODR,Stop The Greens,24687,CHRISTIE,Simon,N,N
+VIC,GRN,The Greens,23276,CHRISTOE,Ian J,N,N
+SA,SPA,Secular Party of Australia,23481,CLARKE,Moira,N,N
+NSW,CDP,Christian Democratic Party (Fred Nile Group),24386,CLIFFORD,Ross,N,N
+SA,IND,Independent,25031,COCHRANE,Christopher Mark,N,N
+SA,SEP,Socialist Equality Party,23838,COGAN,James,N,N
+TAS,LP,Liberal,23289,COLBECK,Richard,Y,Y
+WA,ASXP,Sex Party,24795,COLEMAN,Mark,N,N
+QLD,VCE,Australian Voice,24918,COLLINGWOOD,Bevan,N,N
+VIC,ALP,Australian Labor Party,23533,COLLINS,Jacinta,Y,Y
+SA,PUP,Palmer United Party,24256,COLLIS,Peter Gary,N,N
+VIC,DEM,Australian Democrats,23729,COLLYER,David,N,N
+QLD,SMK,Smokers Rights,24635,CONNOR,Rachel,N,N
+VIC,RPA,The Australian Republicans,24706,CONSANDINE,Peter,N,N
+NSW,,,24904,COOPER,Peter Grant,N,N
+VIC,NP,The Nationals,23562,CORBOY,Martin Louis,N,N
+VIC,KAP,Katter's Australian Party,24175,COSTABILE,David,N,N
+TAS,LP,Liberal,23295,COURTNEY,Sarah,N,N
+NT,RUA,Rise Up Australia Party,24731,COX,Michael,N,N
+SA,AIN,Australian Independents,23929,CRAGO,Tanya,N,N
+QLD,LNP,Liberal National Party of Queensland,23908,CRAIG,Theresa,N,N
+TAS,FFP,Family First,24460,CRAMP,Nick,N,N
+VIC,RUA,Rise Up Australia Party,24063,CRESTANI,Rosalie,N,N
+ACT,DRF,Drug Law Reform,24919,CUBITT,Paul,N,N
+QLD,ASP,Shooters and Fishers,24735,CURLESS,David Graham,N,N
+WA,SPA,Secular Party of Australia,23707,CUTHBERT,Simon Andrew,N,N
+VIC,KAP,Katter's Australian Party,24156,DANIELI,Robert,N,N
+NSW,SAL,Socialist Alliance,24109,DARE,Reg,N,N
+SA,CYA,Country Alliance,24858,DAVIES,Steven,N,N
+WA,GRN,The Greens (WA),23975,DAVIS,Kate,N,N
+VIC,AJP,Animal Justice Party,23527,DAVISON,Sarah,N,N
+VIC,TCS,No Carbon Tax Climate Sceptics,23578,DAWSON,Chris,N,N
+SA,FFP,Family First,24901,DAY,Bob,Y,N
+NSW,ODR,Stop The Greens,24805,DE LIMA,Joaquim Eduardo,N,N
+TAS,PUP,Palmer United Party,23541,DEAKIN,Kevin John,N,N
+NSW,SCSG,Stop CSG,24444,DEAN,Lynda Susan,N,N
+NSW,AFLP,Australian Fishing and Lifestyle Party,24088,DEAN,Tim,N,N
+QLD,ODR,Stop The Greens,24893,DESTRY,Fay,N,N
+VIC,ODR,Stop The Greens,24688,DESTRY,Terry,N,N
+WA,TCS,No Carbon Tax Climate Sceptics,24488,DEWAR,Heather,N,N
+WA,SMK,Smokers Rights,24719,DI RADO,Daniel,N,N
+QLD,,,23895,DINSEY,Emily,N,N
+TAS,ALP,Australian Labor Party,23496,DOWLING,John,N,N
+ACT,DRF,Drug Law Reform,24921,DOWSON,Stacey,N,N
+WA,SPRT,Australian Sports Party,24842,DROPULICH,Wayne,N,N
+TAS,SPP,Stable Population Party,23386,DUDLEY,Todd,N,N
+SA,ON,One Nation,23535,DUNBAR,Kym,N,N
+WA,GRN,The Greens (WA),23980,DUNCAN,Adam Nathan,N,N
+NSW,ASXP,Sex Party,24097,DUNNE,Graeme,N,N
+WA,NP,The Nationals,24258,EAGLES,David,N,N
+TAS,ASXP,Sex Party,24909,EALES,Liam,N,N
+WA,AFLP,Australian Fishing and Lifestyle Party,23603,EDWARDS,Jay,N,N
+NT,ASXP,Sex Party,24958,EDWARDS,Joanne Louise,N,N
+SA,AUC,Australian Christians,23517,ENGELA,Theophilus,N,N
+VIC,BTA,Bullet Train For Australia,24253,ERWOOD,Mark,N,N
+ACT,GRN,Australian Greens,24912,ESGUERRA,Indra,N,N
+VIC,BAP,Building Australia Party,24424,EVANS,Darren,N,N
+ACT,IND,Independent,24665,EZEKIEL-HART,Emmanuel,N,N
+NSW,GRN,The Greens,24467,FAEHRMANN,Cate,N,N
+WA,ON,One Nation,24486,FARMER,Robert Malcolm,N,N
+SA,ALP,Australian Labor Party,23921,FARRELL,Don,N,Y
+VIC,DLP,DLP Democratic Labour,23951,FARRELL,Mark,N,N
+NT,CLP,Country Liberals (NT),23514,FAZLDEEN,Linda,N,N
+WA,KAP,Katter's Australian Party,24351,FELS,Anthony James,N,N
+VIC,FFP,Family First,25038,FENN,Ashley,N,N
+NSW,SOL,Senator Online (Internet Voting Bills/Issues),24651,FERGUSON,Tim,N,N
+WA,DEM,Australian Democrats,25026,FERNANDEZ,Chris,N,N
+ACT,AIN,Australian Independents,24734,FERNIE,Anthony Watson,N,N
+TAS,DLP,DLP Democratic Labour,24836,FERRI,Robyne,N,N
+VIC,LP,Liberal,23555,FIFIELD,Mitch,Y,Y
+ACT,AJP,Animal Justice Party,24222,FILLINGER,Marcus,N,N
+NSW,GRN,The Greens,24476,FINDLEY,Amanda,N,N
+WA,AFLP,Australian Fishing and Lifestyle Party,23604,FINLAYSON,Ross,N,N
+WA,ODR,Stop The Greens,24710,FISHLOCK,David,N,N
+SA,ON,One Nation,23531,FITZPATRICK,Peter,N,N
+VIC,HMP,Help End Marijuana Prohibition (HEMP) Party,24699,FLETCHER,Ryan William,N,N
+SA,RUA,Rise Up Australia Party,25013,FLINT,Jeff,N,N
+NT,ALP,Australian Labor Party (Northern Territory) Branch,23503,FOLEY,Rowan,N,N
+WA,RUA,Rise Up Australia Party,23963,FOREMAN,Jane,N,N
+WA,ALP,Australian Labor Party,24299,FOSTER,Peter Allan,N,N
+NSW,VCE,Australian Voice,24561,FRANCIS,Keith,N,N
+NSW,CDP,Christian Democratic Party (Fred Nile Group),24379,FRASER,Caroline Margaret,N,N
+NSW,AFN,Australia First Party,23425,FRASER,Garth,N,N
+NSW,SCSG,Stop CSG,24443,FRASER,Gordon Graham,N,N
+QLD,VCE,Australian Voice,24920,FRIEND,George,N,N
+SA,SMK,Smokers Rights,24917,FROST,Adam,N,N
+WA,LDP,Liberal Democrats,24701,FRYAR,Jim,N,N
+QLD,ALP,Australian Labor Party,23551,FURNER,Mark Lionel,N,Y
+NT,AIN,Australian Independents,23962,FUTCHER,Lisa,N,N
+NSW,HMP,Help End Marijuana Prohibition (HEMP) Party,24092,FUTTER,BJ,N,N
+NT,FNPP,A.F.N.P.P.,24020,GADAMBUA,Jeannie,N,N
+SA,LDP,Liberal Democrats,24855,GAMEAU,Michael,N,N
+TAS,CYA,Country Alliance,23950,GARTH,Debra,N,N
+TAS,RUA,Rise Up Australia Party,23790,GATHERCOLE,Peter,N,N
+WA,WKP,The Wikileaks Party,23870,GEORGATOS,Gerry,N,N
+VIC,AMEP,Australian Motoring Enthusiast Party,24796,GILL,Craig A,N,N
+NSW,BTA,Bullet Train For Australia,24455,GLICK,Charlotte Rebecca,N,N
+TAS,FFP,Family First,24432,GOELST,Andrew,N,N
+QLD,LNP,Liberal National Party of Queensland,23896,GOODWIN,David,N,N
+SA,AUC,Australian Christians,23515,GRACE,Trevor,N,N
+ACT,SPP,Stable Population Party,23293,GRAHAM,Greg,N,N
+NT,ASP,Shooters and Fishers,23588,GRAHAM,Matt,N,N
+NSW,APP,Australian Protectionist Party,24581,GRECH,Mark,N,N
+SA,AMEP,Australian Motoring Enthusiast Party,25007,GREEN,Nathan,N,N
+SA,,,24614,GREEN,Ribnga,N,N
+SA,XEN,Nick Xenophon Group,23948,GRIFF,Stirling,N,N
+VIC,DEM,Australian Democrats,23739,GRUMMET,Richard,N,N
+VIC,IND,Independent,23816,GUNTER,Lyn,N,N
+NSW,FUT,Future Party,23226,HAGGERTY,James,N,N
+SA,ASP,Shooters and Fishers,23524,HAHN,John,N,N
+SA,RUA,Rise Up Australia Party,25014,HALES,Paul,N,N
+NSW,SEP,Socialist Equality Party,23406,HAMBIDES,Zac,N,N
+WA,LDP,Liberal Democrats,24705,HAMILTON,Neil,N,N
+VIC,PIR,Pirate Party,24769,HAMMETT,Geoffrey David,N,N
+NSW,DLP,Democratic Labour Party (DLP),24076,HANNA,Daniel John,N,N
+NSW,ON,One Nation,24337,HANSON,Pauline,N,N
+SA,GRN,Australian Greens,24837,HANSON-YOUNG,Sarah,Y,Y
+QLD,BAP,Building Australia Party,24650,HARRIS,Ryan,N,N
+TAS,TCS,No Carbon Tax Climate Sceptics,24490,HAWES,James,N,N
+VIC,PUP,Palmer United Party,23635,HAWKINS,Douglas James,N,N
+NSW,NP,The Nationals,23516,HAY,Alan,N,N
+QLD,DEM,Australian Democrats,24446,HAYDEN,Cheryl,N,N
+SA,AFLP,Australian Fishing and Lifestyle Party,23784,HAYDON,Darren,N,N
+VIC,SPP,Stable Population Party,23525,HAYES,Clifford,N,N
+QLD,SEP,Socialist Equality Party,23462,HEAD,Mike,N,N
+WA,FFP,Family First Party,24327,HENG,Henry,N,N
+ACT,RUA,Rise Up Australia Party,24702,HENRIQUEZ,Jose,N,N
+TAS,KAP,Katter's Australian Party,24274,HERBERT,Geoff,N,N
+QLD,APP,Australian Protectionist Party,23829,HEYWARD,Rick,N,N
+WA,AIN,Australian Independents,24132,HIGGINS,Daryl,N,N
+QLD,PUP,Palmer United Party,23445,HIGGINS,Scott John,N,N
+NSW,VEP,Voluntary Euthanasia Party,24809,HIGSON,Shayne,N,N
+TAS,TCS,No Carbon Tax Climate Sceptics,24493,HINES,Petta,N,N
+NSW,AIN,Australian Independents,24081,HIRST,Stephen,N,N
+NSW,GRN,The Greens,24474,HO,Christina,N,N
+WA,KAP,Katter's Australian Party,24356,HODDINOTT,Susan,N,N
+VIC,ASXP,Sex Party,23852,HOPKINS,Ange,N,N
+NSW,ASP,Shooters and Fishers,23157,HOUSEMAN,Karl Alexander,N,N
+VIC,DEM,Australian Democrats,23731,HOWE,Roger,N,N
+WA,AMEP,Australian Motoring Enthusiast Party,24742,HOWLETT,Richie,N,N
+VIC,VCE,Australian Voice Party,24380,HUGHES,Vern,N,N
+VIC,GRN,The Greens,23282,HUMPHREYS,Robert,N,N
+NSW,DRF,Drug Law Reform,24647,HUNT,Miles,N,N
+NSW,FFP,Family First Party,24729,HURLEY,Stan,N,N
+WA,AIN,Australian Independents,24138,IRVING,Patricia,N,N
+VIC,DEM,Australian Democrats,23732,ISGRO,Sarina,N,N
+VIC,CEC,Citizens Electoral Council,23234,ISHERWOOD,Craig,N,N
+VIC,AUC,Australian Christians,23543,JANSON,Vickie,N,N
+NSW,FUT,Future Party,23225,JANSSON,James,N,N
+QLD,SOL,Senator Online (Internet Voting Bills/Issues),24914,JEFFERYES,Ricky,N,N
+QLD,RUA,Rise Up Australia Party,23596,JENNINGS,Michael,N,N
+SA,DRF,Drug Law Reform,25018,JIGGENS,John,N,N
+NSW,APP,Australian Protectionist Party,24582,JOHNS,Christian,N,N
+QLD,ASP,Shooters and Fishers,24737,JOHNSON,Pete,N,N
+WA,LP,Liberal,23885,JOHNSTON,David,N,Y
+VIC,CYA,Country Alliance,23687,JONES,Andrew,N,N
+TAS,AUC,Australian Christians,24789,JONGELING,Ans,N,N
+QLD,SOL,Senator Online (Internet Voting Bills/Issues),24922,JOUM,LB,N,N
+QLD,SCSG,Stop CSG,24464,KABEL,Deedre June,N,N
+VIC,WKP,The Wikileaks Party,24497,KAMPMARK,Binoy,N,N
+WA,SMK,Smokers Rights,24717,KATZ-BARBER,Max,N,N
+QLD,,,24867,KEIOSKIE,Peter,N,N
+VIC,CYA,Country Alliance,23688,KERR,Garry,N,N
+QLD,ALP,Australian Labor Party,23544,KETTER,Chris,Y,Y
+WA,ODR,Stop The Greens,24712,KINNINMONT,Kim Alexander,N,N
+NSW,AMEP,Australian Motoring Enthusiast Party,24724,KIRKNESS,Daniel,N,N
+NSW,ALP,Labor,24055,KOLOMEITZ,Glenn,N,N
+NSW,TCS,No Carbon Tax Climate Sceptics,23432,KOUTALIANOS,Bill,N,N
+VIC,LP,Liberal,23558,KROGER,Helen,N,Y
+NT,FNPP,A.F.N.P.P.,24015,KUNOTH-MONKS,Rosalie,N,N
+NSW,IND,Independent,24866,La MELA,John,N,N
+WA,SPRT,Australian Sports Party,24843,LACKOVIC,Al,N,N
+TAS,PUP,Palmer United Party,23538,LAMBIE,Jacqui,Y,N
+TAS,RUA,Rise Up Australia Party,23785,LAMONT,Philip Murray,N,N
+VIC,ALP,Australian Labor Party,23537,LARKINS,Terry,N,N
+SA,DLP,DLP Democratic Labour,25032,LAWLESS,Kim,N,N
+QLD,PUP,Palmer United Party,23443,LAZARUS,Glenn Patrick,Y,N
+ACT,BTA,Bullet Train For Australia,23694,LEMMEY,Michael James,N,N
+NSW,LDP,Liberal Democrats,24801,LEYONHJELM,David,Y,N
+QLD,SMK,Smokers Rights,24641,LIDDLE,Kelly,N,N
+SA,DLP,DLP Democratic Labour,25033,LINSELL,Tanya,N,N
+NSW,CDP,Christian Democratic Party (Fred Nile Group),24366,LIONS,Deborah,N,N
+QLD,AMEP,Australian Motoring Enthusiast Party,24896,LITTLER,Keith,N,N
+VIC,DEM,Australian Democrats,23737,LIVESAY,Robert,N,N
+TAS,LDP,Liberal Democrats,24828,LLOYD,Katrina,N,N
+SA,SMK,Smokers Rights,24913,LOCK,Tyrone,N,N
+WA,SEP,Socialist Equality Party,24214,LOPEZ,Joe,N,N
+WA,AJP,Animal Justice Party,23179,LOVE,Katrina,N,N
+NSW,AFLP,Australian Fishing and Lifestyle Party,24083,LOWE,Bob,N,N
+WA,GRN,The Greens (WA),23967,LUDLAM,Scott,N,Y
+ACT,ALP,Australian Labor Party,23761,LUNDY,Kate,Y,Y
+QLD,LNP,Liberal National Party of Queensland,23864,MACDONALD,Ian,Y,Y
+ACT,VEP,Voluntary Euthanasia Party,24127,MACDOUGALL,Susan,N,N
+SA,SPA,Secular Party of Australia,23486,MACTIER,Catherine,N,N
+TAS,FFP,Family First,24410,MADDEN,Peter,N,N
+NSW,KAP,Katter's Australian Party,24344,MAILLER,Peter James,N,N
+NSW,KAP,Katter's Australian Party,24347,MAKA,Tony,N,N
+VIC,ASP,Shooters and Fishers,23284,MALCOLM,Steve,N,N
+VIC,ASP,Shooters and Fishers,23283,MALONEY,Terry,N,N
+SA,ASP,Shooters and Fishers,23521,MARKS,Jess,N,N
+VIC,ALP,Australian Labor Party,23532,MARSHALL,Gavin,Y,Y
+VIC,,,24881,MATTHEWS,Beth,N,N
+SA,AIN,Australian Independents,23934,MAXWELL-JONES,Graeme,N,N
+QLD,AIN,Australian Independents,23267,MAXWELL-JONES,Janene,N,N
+VIC,DLP,DLP Democratic Labour,23955,MAZZARELLA,Stephanie,N,N
+NT,PUP,Palmer United Party,24500,McCABE,John Brian Douglas,N,N
+NSW,DLP,Democratic Labour Party (DLP),24075,McCAFFREY,Simon,N,N
+QLD,AFLP,Australian Fishing and Lifestyle Party,23429,McCARTHY,Daniel,N,N
+VIC,GRN,The Greens,23272,McCARTHY,Trent Mark,N,N
+NSW,ON,One Nation,24338,MCCULLOCH,Kate,N,N
+SA,PUP,Palmer United Party,24247,McDONALD,James William Walter Fenwick,N,N
+NSW,TCS,No Carbon Tax Climate Sceptics,23434,McDOWALL,Mijina,N,N
+QLD,LNP,Liberal National Party of Queensland,23878,McGRATH,James,Y,N
+NSW,SAL,Socialist Alliance,24107,McILROY,Jim,N,N
+NSW,SOL,Senator Online (Internet Voting Bills/Issues),24654,McKINNON,Don,N,N
+QLD,FFP,Family First,24876,McLINDON,Aidan,N,N
+NSW,RPA,The Australian Republicans,24819,McNALLY,Kerry,N,N
+TAS,DLP,DLP Democratic Labour,24840,McNAMARA,Glen Anthony,N,N
+TAS,LDP,Liberal Democrats,24825,MEAD,Clinton,N,N
+QLD,PUP,Palmer United Party,23444,MENSINK,Clive Theodore,N,N
+VIC,PUP,Palmer United Party,23630,MICHAEL,Barry,N,N
+SA,CYA,Country Alliance,24860,MICHELMORE,John,N,N
+SA,,,23941,MIEGLICH,Dianah,N,N
+SA,AFLP,Australian Fishing and Lifestyle Party,23787,MILES,Chris,N,N
+NT,SPP,Stable Population Party,23375,MILES,Jim,N,N
+VIC,PIR,Pirate Party,24768,MILES,Joseph,N,N
+VIC,ALP,Australian Labor Party,23539,MILETO,Jamie,N,N
+SA,ASXP,Sex Party,25036,MILKA,Deb,N,N
+ACT,ASXP,Sex Party,24117,MILLER,Jamie,N,N
+QLD,LDP,Liberal Democrats,24628,MITCHELL,Cameron James,N,N
+NSW,PIR,Pirate Party,24072,MOLLOY,Brendan,N,N
+QLD,SCSG,Stop CSG,24458,MONK,Brian Alexander,N,N
+ACT,AJP,Animal Justice Party,24225,MONTAGNE,Jessica,N,N
+QLD,ALP,Australian Labor Party,23548,MOORE,Claire,Y,Y
+QLD,SPP,Stable Population Party,23458,MORAN,Matt,N,N
+VIC,FFP,Family First,25039,MORRIS,Trudie,N,N
+VIC,IND,Independent,24436,MORRISON,Darrell Scott,N,N
+QLD,AMEP,Australian Motoring Enthusiast Party,24897,MORRISON,Tony,N,N
+SA,GRN,Australian Greens,24839,MORTIER,Nikki,N,N
+WA,AUC,Australian Christians,24266,MOSELEY,Justin,N,N
+QLD,HMP,Help End Marijuana Prohibition (HEMP) Party,24243,MOYLAN,James M,N,N
+WA,HMP,Help End Marijuana Prohibition (HEMP) Party,25023,MOYLAN,Tayla,N,N
+QLD,KAP,Katter's Australian Party,24335,MUCKAN,Les,N,N
+VIC,AMEP,Australian Motoring Enthusiast Party,24793,MUIR,Ricky,Y,N
+NSW,ASP,Shooters and Fishers,23159,MUIRHEAD,Jim,N,N
+QLD,SPA,Secular Party of Australia,23508,MUIRHEAD,Neil,N,N
+NSW,VEP,Voluntary Euthanasia Party,24810,MULHALL,Loredana,N,N
+QLD,ASXP,Sex Party,24341,MURRAY,Joel,N,N
+NSW,AMEP,Australian Motoring Enthusiast Party,24722,MYERS,Gary,N,N
+VIC,RUA,Rise Up Australia Party,24062,NALLIAH,Daniel,N,N
+ACT,LP,Liberal,24928,NASH,Merinda,N,N
+NSW,IND,Independent,24051,NATHAN,Sam,N,N
+NSW,ALP,Labor,24061,NELMES,Nuatali,N,N
+QLD,ON,One Nation,24363,NELSON,Ian,N,N
+TAS,FFP,Family First,24466,NGAWHARE,Mihi,N,N
+SA,,,24527,NGOR,Zita Adut,N,N
+VIC,,,23764,NICHOLLS,Bob,N,N
+VIC,,,23766,NICHOLLS,Kylie,N,N
+TAS,SMK,Smokers Rights,24692,NICKOLS,Graham,N,N
+ACT,VEP,Voluntary Euthanasia Party,24125,NITSCHKE,Philip,N,N
+SA,LDP,Liberal Democrats,24856,NOACK,Michael Daniel,N,N
+SA,BAP,Building Australia Party,24773,NOBLE,Michael,N,N
+SA,SPP,Stable Population Party,23461,OATES,Greg,N,N
+NSW,ODR,Stop The Greens,24804,OBRIEN,Rick,N,N
+QLD,AJP,Animal Justice Party,24753,O'BRIEN,Christopher,N,N
+ACT,SPP,Stable Population Party,23291,O'CONNOR,Mark,N,N
+VIC,SEP,Socialist Equality Party,23504,O'CONNOR,Patrick,N,N
+NSW,HMP,Help End Marijuana Prohibition (HEMP) Party,24096,OLBOURNE,Jason,N,N
+SA,KAP,Katter's Australian Party,24521,O'ROURKE,Glenn,N,N
+SA,KAP,Katter's Australian Party,24522,O'ROURKE,Leah,N,N
+QLD,BAP,Building Australia Party,24645,OSMAN,Stuart,N,N
+QLD,SPP,Stable Population Party,23457,O'SULLIVAN,Jane,N,N
+NSW,,,24900,O'TOOLE,Daniel,N,N
+WA,LP,Liberal,23939,OUGHTON,Chris,N,N
+NSW,SPA,Secular Party of Australia,24450,OWEN,Christopher,N,N
+TAS,HMP,Help End Marijuana Prohibition (HEMP) Party,24832,OWEN,Matt,N,N
+VIC,PUP,Palmer United Party,23641,PALMAN,Penny Maree,N,N
+WA,ASXP,Sex Party,24792,PALMER,Steve,N,N
+VIC,AUC,Australian Christians,23545,PAPAFOTIOU,Frank,N,N
+WA,VCE,Australian Voice Party,24728,PARKES,Brian W,N,N
+WA,ASP,Shooters and Fishers,23230,PARKES,John David,N,N
+VIC,ASXP,Sex Party,23845,PATTEN,Fiona,N,N
+QLD,ASXP,Sex Party,24345,PATTEN,Kirsty,N,N
+QLD,KAP,Katter's Australian Party,24320,PAULGER,Shane,N,N
+NSW,LP,Liberal,23501,PAYNE,Marise,Y,Y
+QLD,RPA,The Australian Republicans,24883,PEARSE,Rees,N,N
+NSW,AJP,Animal Justice Party,23334,PEARSON,Mark,N,N
+NSW,CDP,Christian Democratic Party (Fred Nile Group),24354,PEEBLES,Robyn,N,N
+NT,ALP,Australian Labor Party (Northern Territory) Branch,23498,PERIS,Nova,Y,N
+VIC,SPA,Secular Party of Australia,23572,PERKINS,John L,N,N
+QLD,AIN,Australian Independents,23265,PETERSEN,Patricia,N,N
+ACT,AIN,Australian Independents,24736,PETERSEN,Valma,N,N
+QLD,AJP,Animal Justice Party,24750,PETERSON,Jeanette,N,N
+NSW,LDP,Liberal Democrats,24803,PETTETT,Jeffrey Marc,N,N
+TAS,ODR,Stop The Greens,24813,PHIBBS,John,N,N
+VIC,BTA,Bullet Train For Australia,24257,PHILLIPS,Steve,N,N
+NT,RUA,Rise Up Australia Party,24726,PILE,Jan,N,N
+SA,ALP,Australian Labor Party,23924,PISONI,Simon,N,N
+NSW,ON,One Nation,24339,PLUMB,Aaron,N,N
+QLD,PIR,Pirate Party,24759,POMFRET,Liam,N,N
+VIC,AJP,Animal Justice Party,23523,POON,Bruce,N,N
+VIC,RPA,The Australian Republicans,24708,PORTORS,Clinton,N,N
+SA,FFP,Family First,24905,POTTER,Judi,N,N
+NSW,,,24812,POULSEN,Ron,N,N
+WA,ALP,Australian Labor Party,24289,PRATT,Louise,N,Y
+VIC,ALP,Australian Labor Party,23536,PSAILA,Lynn,N,N
+QLD,DLP,Democratic Labour Party (DLP),23489,QUINN,John Lawrence,N,N
+VIC,SPP,Stable Population Party,23530,QUIRK,Jill,N,N
+NSW,CDP,Christian Democratic Party (Fred Nile Group),24372,RAHME,Peter,N,N
+VIC,DEM,Australian Democrats,23735,RAINES,Greg,N,N
+WA,WKP,The Wikileaks Party,23879,RAJAN,Suresh,N,N
+NT,ASXP,Sex Party,24962,RANDALL,Tracey Lee,N,N
+TAS,PIR,Pirate Party,24506,RANDLE,Thomas,N,N
+NSW,ASXP,Sex Party,24099,RAYE,Sue,N,N
+TAS,HMP,Help End Marijuana Prohibition (HEMP) Party,24834,REEVES,John,N,N
+WA,LP,Liberal,23901,REYNOLDS,Linda,N,N
+VIC,GRN,The Greens,23266,RICE,Janet,Y,N
+TAS,SPP,Stable Population Party,23391,RICHARDSON,Pierre,N,N
+NT,ASP,Shooters and Fishers,23589,RIGHTON,Christopher James,N,N
+VIC,BRP,Bank Reform Party,23684,RIGONI,Maria Marcia,N,N
+VIC,BRP,Bank Reform Party,23686,RIGONI,Paul,N,N
+VIC,HMP,Help End Marijuana Prohibition (HEMP) Party,24697,RILEY,Matt,N,N
+TAS,IND,Independent,23998,ROBERTS,Andrew,N,N
+VIC,TCS,No Carbon Tax Climate Sceptics,23579,RODDA,John,N,N
+SA,,,23945,ROHDE,John,N,N
+TAS,KAP,Katter's Australian Party,24310,ROLLS,Joanne,N,N
+QLD,ODR,Stop The Greens,24891,ROOTH,John,N,N
+WA,FFP,Family First Party,24321,ROSE,Linda,N,N
+ACT,RUA,Rise Up Australia Party,24700,ROSS,Irwin,N,N
+NSW,FFP,Family First Party,24727,ROSSITER,Fiona,N,N
+TAS,RPA,The Australian Republicans,24800,ROUEN,Nick,N,N
+TAS,RPA,The Australian Republicans,24802,ROUEN,Timothy,N,N
+QLD,,,23884,RUDD,Greg,N,N
+NT,SPP,Stable Population Party,23423,RUSSELL,Mark,N,N
+QLD,TCS,No Carbon Tax Climate Sceptics,24484,RUTLAND,Alan James,N,N
+NSW,GRN,The Greens,24468,RYAN,James,N,N
+VIC,LP,Liberal,23556,RYAN,Scott,Y,Y
+VIC,SMK,Smokers Rights,24711,SALT,Abe,N,N
+ACT,ALP,Australian Labor Party,23765,SANT,Chris,N,N
+QLD,ON,One Nation,24355,SAVAGE,Jim,N,N
+VIC,SPA,Secular Party of Australia,23573,SCEATS,Rosemary Elizabeth,N,N
+QLD,AFN,Australia First Party,23177,SCHUBACK,Peter,N,N
+NT,CLP,Country Liberals (NT),23513,SCULLION,Nigel,Y,Y
+VIC,GRN,The Greens,23277,SEKHON,Gurm,N,N
+ACT,LP,Liberal,24925,SESELJA,Zed,Y,N
+VIC,AIN,Australian Independents,23863,SHAW,Samantha,N,N
+ACT,GRN,Australian Greens,24907,SHEIKH,Simon,N,N
+VIC,DRF,Drug Law Reform,24664,SHERMAN,John,N,N
+VIC,VCE,Australian Voice Party,24374,SHMUEL,Immanuel,N,N
+NSW,UNP,Uniting Australia Party,24069,SIMONDS,Peter,N,N
+NSW,LP,Liberal,23511,SINODINOS,Arthur,Y,Y
+ACT,PUP,Palmer United Party,24721,SLATTERY,Wayne Kenneth,N,N
+SA,TCS,No Carbon Tax Climate Sceptics,24679,SMITH,David,N,N
+QLD,UNP,Uniting Australia Party,23805,SMITH,John,N,N
+VIC,SOL,Senator Online (Internet Voting Bills/Issues),24634,SMITH,Tony,N,N
+TAS,AIN,Australian Independents,23695,SOLOMON,Neville Ward,N,N
+NSW,RUA,Rise Up Australia Party,24103,SOMERFIELD,Wayne,N,N
+NSW,GRN,The Greens,24478,SPIES-BUTCHER,Ben,N,N
+NSW,SPP,Stable Population Party,23164,SPIKE,Kris,N,N
+SA,NP,National Party,25029,STACEY,James,N,N
+NT,CEC,Citizens Electoral Council,23353,STANKOVIC,Mile,N,N
+NSW,ALP,Labor,24054,STEPHENS,Ursula,N,Y
+NSW,VCE,Australian Voice,24558,STEVENS,Criselee,N,N
+QLD,DEM,Australian Democrats,24440,STEVENSON,Paul J.,N,N
+TAS,AFLP,Australian Fishing and Lifestyle Party,23743,STEWART,Lorraine,N,N
+TAS,AFLP,Australian Fishing and Lifestyle Party,23710,STEWART,Maxwell,N,N
+SA,AMEP,Australian Motoring Enthusiast Party,25008,STEWART,Robert Gordon,N,N
+QLD,LNP,Liberal National Party of Queensland,23917,STOKER,Amanda,N,N
+QLD,GRN,The Greens,23922,STONE,Adam,N,N
+TAS,PIR,Pirate Party,24508,STOREY,Thomas,N,N
+WA,SPP,Stable Population Party,23433,STRACHAN,Peter,N,N
+WA,AJP,Animal Justice Party,23180,SUTTON,Alicia,N,N
+SA,AJP,Animal Justice Party,24932,SUTTON,Sally,N,N
+TAS,ASXP,Sex Party,24906,SWAN,Robbie,N,N
+TAS,AUC,Australian Christians,24786,SWARTS,Kevin,N,N
+QLD,AUC,Australian Christians,23802,SWEERIS-SIGRIST,Ludy,N,N
+NSW,BAP,Building Australia Party,24411,SYMINGTON,Melanie,N,N
+WA,SEP,Socialist Equality Party,24208,SYMONDS,Peter,N,N
+QLD,RPA,The Australian Republicans,24882,TALBOT,Jeffery,N,N
+NSW,AIN,Australian Independents,24079,TANKS,Bradley,N,N
+VIC,SOL,Senator Online (Internet Voting Bills/Issues),24630,TAYLOR,Lloyd,N,N
+QLD,,,24868,TAYLOR,Roland,N,N
+NT,PUP,Palmer United Party,24499,TE WAKE,Douglas,N,N
+ACT,PUP,Palmer United Party,24725,TEERMAN,Paul Gerard,N,N
+WA,PUP,Palmer United Party,23609,TERBLANCHE,Chamonix,N,N
+WA,DEM,Australian Democrats,25027,THIEL,William,N,N
+SA,AJP,Animal Justice Party,24930,THOMAS,Colin,N,N
+QLD,PIR,Pirate Party,24756,THOMAS,Melanie,N,N
+WA,LP,Liberal,23916,THOMAS,Steven,N,N
+NSW,NCP,Non-Custodial Parents Party (Equal Parenting),24091,THOMPSON,Andy,N,N
+NSW,NCP,Non-Custodial Parents Party (Equal Parenting),24093,THOMPSON,Josh,N,N
+TAS,SMK,Smokers Rights,24694,THOMPSON,Matthew,N,N
+TAS,ALP,Australian Labor Party,23494,THORP,Lin,N,Y
+SA,HMP,Help End Marijuana Prohibition (HEMP) Party,25034,THORPE,Ray,N,N
+VIC,SCSG,Stop CSG,24779,THORROWGOOD,Roger Hugh,N,N
+VIC,ALP,Australian Labor Party,23534,TILLEM,Mehmet,N,N
+SA,NP,National Party,25030,TITLEY,Rachel,N,N
+VIC,,,24880,TOSCANO,Joseph,N,N
+VIC,ON,One Nation,24469,TOWNSEND,Dale Phillip,N,N
+VIC,ON,One Nation,24477,TOWNSEND,Rosalyn Lee,N,N
+NSW,WKP,The Wikileaks Party,24457,TRANTER,Kellie,N,N
+QLD,SPA,Secular Party of Australia,23506,TRAVIS,Hilton,N,N
+NSW,DRF,Drug Law Reform,24649,TRIMINGHAM,Tony,N,N
+VIC,GRN,The Greens,23275,TRUONG,Thi Viet Huong,N,N
+WA,AUC,Australian Christians,24264,van BURGEL,Jamie,N,N
+VIC,SCSG,Stop CSG,24781,VAN ROSMALEN,Adele,N,N
+NSW,AJP,Animal Justice Party,23347,VICKERS,Kate,N,N
+NSW,DEM,Australian Democrats,24565,VILLAVER,Ronaldo,N,N
+QLD,FFP,Family First,24879,VINCENT,Sally,N,N
+QLD,DLP,Democratic Labour Party (DLP),23492,VINCENT,Sheila Susan,N,N
+SA,ASXP,Sex Party,25037,VIRGO,Jason,N,N
+NT,AIN,Australian Independents,23959,WALCOTT,Phil,N,N
+SA,DEM,Australian Democrats,23891,WALKER,Jeanie,N,N
+NSW,DEM,Australian Democrats,24574,WALLACE,Andrew,N,N
+NSW,AFN,Australia First Party,23421,WALLBRIDGE,Darrell,N,N
+NSW,,,24898,WANG,Tom,N,N
+WA,PUP,Palmer United Party,23607,WANG,Zhenya,N,N
+QLD,AFN,Australia First Party,23178,WATSON,Peter,N,N
+QLD,UNP,Uniting Australia Party,23812,WATT,Danny,N,N
+NT,UNP,Uniting Australia Party,23797,WATT,Kathryn,N,N
+NSW,UNP,Uniting Australia Party,24070,WATT,Tanya,N,N
+SA,SPP,Stable Population Party,23465,WEARNE,Madeleine,N,N
+SA,IND,Independent,23158,WEAVER,Robert,N,N
+SA,LP,Liberal,23614,WEBB,Cathie,N,N
+VIC,,,23767,WEBB,Peter,N,N
+NSW,,,24903,WHALAN,Andrew,N,N
+NSW,SMK,Smokers Rights,24799,WHELAN,James Peter,N,N
+VIC,LDP,Liberal Democrats,24672,WHELAN,Peter William,N,N
+TAS,GRN,Australian Greens,23448,WHISH-WILSON,Peter,Y,Y
+QLD,RUA,Rise Up Australia Party,23597,WHITE,Garry Douglas,N,N
+VIC,BAP,Building Australia Party,24427,WHITE,Samuel,N,N
+TAS,SOL,Senator Online (Internet Voting Bills/Issues),24517,WIENER,Sven,N,N
+NSW,NP,The Nationals,23507,WILLIAMS,John,Y,Y
+NT,GRN,Australian Greens,24888,WILLIAMS,Warren H,N,N
+VIC,LDP,Liberal Democrats,24678,WILMS,Tim,N,N
+WA,NP,The Nationals,24254,WIRRPANDA,David,N,N
+SA,ALP,Australian Labor Party,23912,WONG,Penny,Y,Y
+TAS,AIN,Australian Independents,23698,WOOD,Steven Keith,N,N
+VIC,AIN,Australian Independents,23871,WOOD,Yvonne,N,N
+NT,CEC,Citizens Electoral Council,23300,WORK,Vernon,N,N
+NSW,PUP,Palmer United Party,24090,WRIGHTSON,Suellen Marree,N,N
+QLD,AFLP,Australian Fishing and Lifestyle Party,23430,WYATT,Suzzanne,N,N
+SA,XEN,Nick Xenophon Group,23940,XENOPHON,Nick,Y,Y
+QLD,GRN,The Greens,23931,YEAMAN,Stuart,N,N
+QLD,HMP,Help End Marijuana Prohibition (HEMP) Party,24245,YOBBO,Robbo,N,N
+WA,AMEP,Australian Motoring Enthusiast Party,24743,YOUNG,Sharon,N,N
+QLD,SEP,Socialist Equality Party,23469,ZABALA,Gabriela,N,N
+VIC,AFLP,Australian Fishing and Lifestyle Party,23769,ZAMMIT,Joe,N,N

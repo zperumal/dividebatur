@@ -9,7 +9,14 @@
             "automation" : [1, 1],
             "vacancies" : 6,
             "house" : "Australian Senate",
-            "state" : "WA"
+            "state" : "WA",
+	    "aec-data" : {
+		"format": "AusSenatePre2015",
+		"senate-candidates": "common/SenateCandidatesDownload-17496.csv",
+		"group-voting-tickets": "common/SenateGroupVotingTicketsDownload-17496.csv",
+		"first-preferences": "count1/data/SenateFirstPrefsByStateByVoteTypeDownload-17496.csv",
+		"btl-preferences": "count1/data/SenateStateBTLPreferences-17496-WA.csv"
+	    }
         },
         {
             "path" : "count2/data",
@@ -19,7 +26,14 @@
             "automation" : [1, 1],
             "vacancies" : 6,
             "house" : "Australian Senate",
-            "state" : "WA"
+            "state" : "WA",
+	    "aec-data" : {
+		"format": "AusSenatePre2015",
+		"senate-candidates": "common/SenateCandidatesDownload-17496.csv",
+		"group-voting-tickets": "common/SenateGroupVotingTicketsDownload-17496.csv",
+		"first-preferences": "count2/data/SenateFirstPrefsByStateByVoteTypeDownload-17496.csv",
+		"btl-preferences": "count2/data/SenateStateBTLPreferences-17496-WA.csv"
+	    }
         },
         {
             "path" : "count2_plus_1370/data",
@@ -29,7 +43,14 @@
             "automation" : [1, 1],
             "vacancies" : 6,
             "house" : "Australian Senate",
-            "state" : "WA"
+            "state" : "WA",
+	    "aec-data" : {
+		"format": "AusSenatePre2015",
+		"senate-candidates": "common/SenateCandidatesDownload-17496.csv",
+		"group-voting-tickets": "common/SenateGroupVotingTicketsDownload-17496.csv",
+		"first-preferences": "count2_plus_1370/data/SenateFirstPrefsByStateByVoteTypeDownload-17496.csv",
+		"btl-preferences": "count2/data/SenateStateBTLPreferences-17496-WA.csv"
+	    }
         },
         {
             "path" : "rerun_count1/data",
@@ -39,9 +60,15 @@
             "automation" : [2, 1, 1],
             "vacancies" : 6,
             "house" : "Australian Senate",
-            "state" : "WA"
+            "state" : "WA",
+	    "aec-data" : {
+		"format": "AusSenatePre2015",
+		"senate-candidates": "rerun/data/SenateCandidatesDownload-17875.csv",
+		"group-voting-tickets": "rerun/data/SenateGroupVotingTicketsDownload-17875.csv",
+		"first-preferences": "rerun/data/SenateFirstPrefsByStateByVoteTypeDownload-17875.csv",
+		"btl-preferences": "rerun/data/SenateStateBTLPreferences-17875-WA.csv"
+	    }
         }
     ],
-    "method" : "AusSenatePre2015",
     "title" : "Australian Senate, WA, 2013/14"
 }
