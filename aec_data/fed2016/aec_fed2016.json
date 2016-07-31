@@ -15,7 +15,7 @@
         {
             "path" : "tas/data",
             "name" : "TAS with bulk",
-            "shortname" : "tas",
+            "shortname" : "tas_bulk",
             "description" : "Tasmania",
             "vacancies" : 12,
             "house" : "Australian Senate",
