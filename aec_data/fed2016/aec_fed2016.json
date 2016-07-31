@@ -9,6 +9,17 @@
             "vacancies" : 12,
             "house" : "Australian Senate",
             "state" : "TAS",
+            "automation" : [2],
+	    "disable_bulk_exclusions": true
+        },
+        {
+            "path" : "tas/data",
+            "name" : "TAS with bulk",
+            "shortname" : "tas",
+            "description" : "Tasmania",
+            "vacancies" : 12,
+            "house" : "Australian Senate",
+            "state" : "TAS",
             "automation" : [2]
         },
         {
