@@ -1,6 +1,40 @@
 {
     "count" : [
         {
+            "path" : "act/data",
+            "name" : "ACT",
+            "shortname" : "act",
+            "description" : "Australian Capital Territory",
+            "vacancies" : 2,
+            "house" : "Australian Senate",
+            "state" : "ACT",
+            "automation" : [],
+	    "disable_bulk_exclusions": true,
+	    "aec-data" : {
+		"format": "AusSenatePost2015",
+		"senate-candidates": "common/SenateCandidatesDownload-20499.csv",
+		"all-candidates": "common/2016federalelection-all-candidates-nat-30-06-924.csv",
+		"formal-preferences": "act/data/aec-senate-formalpreferences-20499-ACT.csv"
+	    }
+        },
+        {
+            "path" : "act/data",
+            "name" : "ACT with bulk",
+            "shortname" : "act_bulk",
+            "description" : "Australian Capital Territory with Bulk Exclusions",
+            "vacancies" : 2,
+            "house" : "Australian Senate",
+            "state" : "ACT",
+            "automation" : [],
+	    "disable_bulk_exclusions": true,
+	    "aec-data" : {
+		"format": "AusSenatePost2015",
+		"senate-candidates": "common/SenateCandidatesDownload-20499.csv",
+		"all-candidates": "common/2016federalelection-all-candidates-nat-30-06-924.csv",
+		"formal-preferences": "act/data/aec-senate-formalpreferences-20499-ACT.csv"
+	    }
+        },
+        {
             "path" : "tas/data",
 	    "verified" : "tas/verified",
             "name" : "TAS",
@@ -22,7 +56,7 @@
             "path" : "tas/data",
             "name" : "TAS with bulk",
             "shortname" : "tas_bulk",
-            "description" : "Tasmania",
+            "description" : "Tasmania with Bulk Exclusions",
             "vacancies" : 12,
             "house" : "Australian Senate",
             "state" : "TAS",
@@ -43,6 +77,7 @@
             "house" : "Australian Senate",
             "state" : "TAS",
             "automation" : [],
+	    "disable_bulk_exclusions": true,
 	    "s282_recount": "tas",
 	    "aec-data" : {
 		"format": "AusSenatePost2015",
@@ -66,6 +101,57 @@
 		"senate-candidates": "common/SenateCandidatesDownload-20499.csv",
 		"all-candidates": "common/2016federalelection-all-candidates-nat-30-06-924.csv",
 		"formal-preferences": "nt/data/aec-senate-formalpreferences-20499-NT.csv"
+	    }
+        },
+        {
+            "path" : "wa/data",
+            "name" : "WA",
+            "shortname" : "wa",
+            "description" : "Western Australia",
+            "vacancies" : 12,
+            "house" : "Australian Senate",
+            "state" : "WA",
+            "automation" : [],
+	    "disable_bulk_exclusions": true,
+	    "aec-data" : {
+		"format": "AusSenatePost2015",
+		"senate-candidates": "common/SenateCandidatesDownload-20499.csv",
+		"all-candidates": "common/2016federalelection-all-candidates-nat-30-06-924.csv",
+		"formal-preferences": "wa/data/aec-senate-formalpreferences-20499-WA.csv"
+	    }
+        },
+        {
+            "path" : "wa/data",
+            "name" : "WA with bulk",
+            "shortname" : "wa_bulk",
+            "description" : "Western Australia with Bulk Exclusions",
+            "vacancies" : 12,
+            "house" : "Australian Senate",
+            "state" : "WA",
+            "automation" : [],
+	    "aec-data" : {
+		"format": "AusSenatePost2015",
+		"senate-candidates": "common/SenateCandidatesDownload-20499.csv",
+		"all-candidates": "common/2016federalelection-all-candidates-nat-30-06-924.csv",
+		"formal-preferences": "wa/data/aec-senate-formalpreferences-20499-WA.csv"
+	    }
+        },
+        {
+            "path" : "wa/data",
+            "name" : "WA s282",
+            "shortname" : "wa_s282",
+            "description" : "Western Australia - s282 recount",
+            "vacancies" : 6,
+            "house" : "Australian Senate",
+            "state" : "WA",
+            "automation" : [],
+	    "disable_bulk_exclusions": true,
+	    "s282_recount": "wa",
+	    "aec-data" : {
+		"format": "AusSenatePost2015",
+		"senate-candidates": "common/SenateCandidatesDownload-20499.csv",
+		"all-candidates": "common/2016federalelection-all-candidates-nat-30-06-924.csv",
+		"formal-preferences": "wa/data/aec-senate-formalpreferences-20499-WA.csv"
 	    }
         }
     ],
