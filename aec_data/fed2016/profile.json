@@ -1,0 +1,23 @@
+{
+    "count" : [
+        {
+            "path" : "wa/data",
+            "name" : "WA",
+            "shortname" : "wa",
+            "description" : "Western Australia",
+            "vacancies" : 12,
+            "house" : "Australian Senate",
+            "state" : "WA",
+            "automation" : [],
+	    "disable_bulk_exclusions": false,
+	    "aec-data" : {
+		"format": "AusSenatePost2015",
+		"senate-candidates": "common/SenateCandidatesDownload-20499.csv",
+		"all-candidates": "common/2016federalelection-all-candidates-nat-30-06-924.csv",
+		"formal-preferences": "wa/data/aec-senate-formalpreferences-20499-WA.csv"
+	    }
+        }
+    ],
+    "method" : "AusSenatePost2015",
+    "title" : "Australian Senate 2016"
+}

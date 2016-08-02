@@ -1,0 +1,22 @@
+{
+    "count" : [
+        {
+            "path" : "wa/data",
+            "name" : "WA",
+            "shortname" : "wa",
+            "description" : "Western Australia",
+            "automation" : [1, 1],
+            "vacancies" : 6,
+            "house" : "Australian Senate",
+            "state" : "WA",
+	    "aec-data" : {
+		"format": "AusSenatePre2015",
+		"senate-candidates": "common/SenateCandidatesDownload-17496.csv",
+		"group-voting-tickets": "common/SenateGroupVotingTicketsDownload-17496.csv",
+		"first-preferences": "common/SenateFirstPrefsByStateByVoteTypeDownload-17496.csv",
+		"btl-preferences": "wa/data/SenateStateBTLPreferences-17496-WA.csv"
+	    }
+        }
+    ],
+    "title" : "Australian Senate, WA, 2013/14"
+}
