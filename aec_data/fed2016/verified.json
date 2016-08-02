@@ -1,0 +1,41 @@
+{
+    "count" : [
+        {
+            "path" : "tas/data",
+	    "verified" : "tas/verified",
+            "name" : "TAS",
+            "shortname" : "tas",
+            "description" : "Tasmania",
+            "vacancies" : 12,
+            "house" : "Australian Senate",
+            "state" : "TAS",
+            "automation" : [2],
+	    "disable_bulk_exclusions": true,
+	    "aec-data" : {
+		"format": "AusSenatePost2015",
+		"senate-candidates": "common/SenateCandidatesDownload-20499.csv",
+		"all-candidates": "common/2016federalelection-all-candidates-nat-30-06-924.csv",
+		"formal-preferences": "tas/data/aec-senate-formalpreferences-20499-TAS.csv"
+	    }
+        },
+        {
+            "path" : "nt/data",
+	    "verified" : "nt/verified",
+            "name" : "NT",
+            "shortname" : "nt",
+            "description" : "Northern Territory",
+            "automation" : [],
+            "vacancies" : 2,
+            "house" : "Australian Senate",
+            "state" : "NT",
+	    "aec-data" : {
+		"format": "AusSenatePost2015",
+		"senate-candidates": "common/SenateCandidatesDownload-20499.csv",
+		"all-candidates": "common/2016federalelection-all-candidates-nat-30-06-924.csv",
+		"formal-preferences": "nt/data/aec-senate-formalpreferences-20499-NT.csv"
+	    }
+        }
+    ],
+    "method" : "AusSenatePost2015",
+    "title" : "Australian Senate 2016"
+}

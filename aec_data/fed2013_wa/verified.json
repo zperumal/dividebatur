@@ -1,0 +1,23 @@
+{
+    "count" : [
+        {
+            "path" : "count1/data",
+            "verified" : "count1/verified",
+            "name" : "Initial Count",
+            "shortname" : "wa_count1",
+            "description" : "First count of the votes, replaced by later recount.",
+            "automation" : [1, 1],
+            "vacancies" : 6,
+            "house" : "Australian Senate",
+            "state" : "WA",
+	    "aec-data" : {
+		"format": "AusSenatePre2015",
+		"senate-candidates": "common/SenateCandidatesDownload-17496.csv",
+		"group-voting-tickets": "common/SenateGroupVotingTicketsDownload-17496.csv",
+		"first-preferences": "count1/data/SenateFirstPrefsByStateByVoteTypeDownload-17496.csv",
+		"btl-preferences": "count1/data/SenateStateBTLPreferences-17496-WA.csv"
+	    }
+        }
+    ],
+    "title" : "Australian Senate, WA, 2013/14"
+}
