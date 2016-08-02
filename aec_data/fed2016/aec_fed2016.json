@@ -35,6 +35,57 @@
 	    }
         },
         {
+            "path" : "sa/data",
+            "name" : "SA",
+            "shortname" : "sa",
+            "description" : "South Australia",
+            "vacancies" : 12,
+            "house" : "Australian Senate",
+            "state" : "SA",
+            "automation" : [],
+	    "disable_bulk_exclusions": true,
+	    "aec-data" : {
+		"format": "AusSenatePost2015",
+		"senate-candidates": "common/SenateCandidatesDownload-20499.csv",
+		"all-candidates": "common/2016federalelection-all-candidates-nat-30-06-924.csv",
+		"formal-preferences": "sa/data/aec-senate-formalpreferences-20499-SA.csv"
+	    }
+        },
+        {
+            "path" : "sa/data",
+            "name" : "SA with bulk",
+            "shortname" : "sa_bulk",
+            "description" : "South Australia with Bulk Exclusions",
+            "vacancies" : 12,
+            "house" : "Australian Senate",
+            "state" : "SA",
+            "automation" : [2],
+	    "aec-data" : {
+		"format": "AusSenatePost2015",
+		"senate-candidates": "common/SenateCandidatesDownload-20499.csv",
+		"all-candidates": "common/2016federalelection-all-candidates-nat-30-06-924.csv",
+		"formal-preferences": "sa/data/aec-senate-formalpreferences-20499-SA.csv"
+	    }
+        },
+        {
+            "path" : "sa/data",
+            "name" : "SA s282",
+            "shortname" : "sa_s282",
+            "description" : "South Australia - s282 recount",
+            "vacancies" : 6,
+            "house" : "Australian Senate",
+            "state" : "SA",
+            "automation" : [],
+	    "disable_bulk_exclusions": true,
+	    "s282_recount": "sa",
+	    "aec-data" : {
+		"format": "AusSenatePost2015",
+		"senate-candidates": "common/SenateCandidatesDownload-20499.csv",
+		"all-candidates": "common/2016federalelection-all-candidates-nat-30-06-924.csv",
+		"formal-preferences": "sa/data/aec-senate-formalpreferences-20499-SA.csv"
+	    }
+        },
+        {
             "path" : "tas/data",
 	    "verified" : "tas/verified",
             "name" : "TAS",
